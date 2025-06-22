@@ -8,7 +8,7 @@ Bu rapor, projenizin genel bir değerlendirmesini sunmaktadır. Projenin başar�
 
 ---
 
-## 📊 İlişki Açıklamaları
+##  İlişki Açıklamaları
 
 - **Müşteri - Kiralama:** Bir müşteri birden fazla araç kiralayabilir (**1:N ilişki**)
 - **Araba - Kiralama:** Bir araç farklı zamanlarda birden fazla kez kiralanabilir (**1:N ilişki**)
@@ -17,7 +17,7 @@ Bu rapor, projenizin genel bir değerlendirmesini sunmaktadır. Projenin başar�
 
 ---
 
-## 📝 Sistem Açıklaması
+##  Sistem Açıklaması
 
 Bu araç kiralama sistemi, müşterilerin araç kiralamasını ve kiralanmış araçların takibini sağlar. Sistem üç ana varlığa sahiptir:
 
@@ -25,7 +25,7 @@ Bu araç kiralama sistemi, müşterilerin araç kiralamasını ve kiralanmış a
 - **Otomobil**
 - **Kiralama**
 
-### 📌 Kurallar ve İşleyiş:
+###  Kurallar ve İşleyiş:
 - Bir müşteri istediği kadar aracı kiralayabilir (**1:N ilişki**)
 - Bir araç **aynı tarih aralığında birden fazla kişiye kiralanamaz**
 - Müşteriler, kişisel bilgileri (ad, soyad, TC kimlik no, vb.) ile sisteme kaydedilir
@@ -34,7 +34,7 @@ Bu araç kiralama sistemi, müşterilerin araç kiralamasını ve kiralanmış a
 
 ---
 
-## 📌 Özet
+##  Özet
 
 Bu proje, araç kiralama operasyonlarını dijital ortamda düzenleyerek süreçleri hızlandırmayı ve kullanıcı deneyimini iyileştirmeyi hedeflemiştir.  
 İlişkisel veritabanı yapısı ve modern web teknolojileriyle desteklenmiş sistem, sektördeki benzer çözümlere alternatif oluşturabilecek niteliktedir.
