@@ -38,3 +38,23 @@ Bu araç kiralama sistemi, müşterilerin araç kiralamasını ve kiralanmış a
 
 Bu proje, araç kiralama operasyonlarını dijital ortamda düzenleyerek süreçleri hızlandırmayı ve kullanıcı deneyimini iyileştirmeyi hedeflemiştir.  
 İlişkisel veritabanı yapısı ve modern web teknolojileriyle desteklenmiş sistem, sektördeki benzer çözümlere alternatif oluşturabilecek niteliktedir.
+
+## 📸 Uygulama Ekran Görüntüleri
+
+### 🖥️ Uygulama Ana Sayfa
+![Uygulama Ana Sayfa](https://github.com/AbdulmecidNasir/Car_Rental_Platform/blob/d51fb1465989d6496305920c86b6767c7c0d6ef0/screenshots/Screenshot%202025-05-16%20081804.png)
+
+### 🖥️ Musteri Ekleme
+![Musteri Ekleme](https://github.com/AbdulmecidNasir/Car_Rental_Platform/blob/d51fb1465989d6496305920c86b6767c7c0d6ef0/screenshots/Screenshot%202025-05-16%20082121.png)
+
+### 🖥️ Musteri Listesi
+![Musteri Listesi](https://github.com/AbdulmecidNasir/Car_Rental_Platform/blob/d51fb1465989d6496305920c86b6767c7c0d6ef0/screenshots/Screenshot%202025-05-16%20082357.png)
+
+### 🖥️ Kiralama Islemi
+![Kiralama Islemi](https://github.com/AbdulmecidNasir/Car_Rental_Platform/blob/d51fb1465989d6496305920c86b6767c7c0d6ef0/screenshots/Screenshot%202025-05-16%20082546.png)
+
+### 🖥️ Kiralama Gecmisi
+![Kiralama Gecmisi](https://github.com/AbdulmecidNasir/Car_Rental_Platform/blob/d51fb1465989d6496305920c86b6767c7c0d6ef0/screenshots/Screenshot%202025-05-16%20082612.png)
+
+
+
